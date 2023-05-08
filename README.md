@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lfvm94, a Civil Enginner with specialization in Structural Design and Analysis and Computational Scientist
-- 👀 I created and help mantain CALRECOD (Computed Aided Learning of Reinforced Concrete Design)
-- 🌱 I also contribute to the further development of CALFEM (Computed Aided Learning of the FInite Element Method)
+- 👀 I created and help mantain CALRECOD (Computed Aided Learning of Reinforced Concrete Design): https://github.com/calrecod/CALRECOD
+- 🌱 I also contribute to the further development of other OA software such as CALFEM (Computed Aided Learning of the FInite Element Method)
 - 💞️ In general, my contributions, projects and developments are related to Civil Engineering Computations
 - 📫 You can reach me directly through my email acount: luiz.verduz@gmail.com
 
